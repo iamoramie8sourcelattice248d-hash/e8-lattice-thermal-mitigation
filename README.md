@@ -1,3 +1,4 @@
+# {GRsm + Lsm}
 # Geometric Impedance Matching Framework for Passive Thermal Mitigation in High-Density Logic Gate Architectures
 ## Conceptual Abstract: The Paradigm Shift Current semiconductor architectures are fundamentally constrained by Landauer's Principle and subsequent "Joule heating" at sub-nanometer scales. Traditional methodologies treat thermal dissipation as an ex-post engineering problem {active cooling, material heat sinks}.
 This Repository presents a Novel, Zero-Knowledge Theoretical Framework that neutralizes "ENTROPY" accumulation ex-ante at the Logic-Gate level. By mapping discrete data propagation Pathways directly onto the 248D-dimensional manifold of the Exceptional Lie Group $E_8$, electron kinetic vectors are passively aligned with the intrinsic Topological Geodesics of the lattice.
